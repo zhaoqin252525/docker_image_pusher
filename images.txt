@@ -3,3 +3,4 @@ openmetadata/server:1.4.6
 openmetadata/ingestion:1.4.6
 docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 openmetadata/db:1.4.6
+alpine:3.19.1
