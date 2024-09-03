@@ -1,1 +1,1 @@
-acryldata/datahub-actions:latest
+acryldata/datahub-actions:v0.0.18
