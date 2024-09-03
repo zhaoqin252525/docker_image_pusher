@@ -1,6 +1,17 @@
-openmetadata/ingestion:1.4.6
-openmetadata/server:1.4.6
-openmetadata/ingestion:1.4.6
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-openmetadata/db:1.4.6
-alpine:3.19.1
+broker 7.4.0
+kafka:7.4.0
+elasticsearch:7.10.1
+mysql:8.2
+schema-registry:7.4.0
+zookeeper:7.4.0
+acryldata/datahub-ingestion:v0.14.0.2
+acryldata/datahub-gms:v0.14.0.2
+acryldata/datahub-frontend-react:v0.14.0.2
+acryldata/datahub-mae-consumer:v0.14.0.2
+acryldata/datahub-mce-consumer:v0.14.0.2
+acryldata/datahub-upgrade:v0.14.0.2
+acryldata/datahub-kafka-setup:v0.14.0.2
+acryldata/datahub-elasticsearch-setup:v0.14.0.2
+acryldata/datahub-mysql-setup:v0.14.0.2
+acryldata/datahub-postgres-setup:v0.14.0.2
+acryldata/datahub-actions:v0.14.0.2
