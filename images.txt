@@ -1,4 +1,3 @@
-broker 7.4.0
 kafka:7.4.0
 elasticsearch:7.10.1
 mysql:8.2
